@@ -13,7 +13,7 @@ I'm a Software Engineering graduate from Florida Gulf Coast University. I'm pass
 You can contact me through the following links:
 
 - My Portfolio: https://gregbateham.io/
-- LinkedIn: https://www.linkedin.com/in/paulo-drefahl-300591205/
+- LinkedIn: https://www.linkedin.com/in/gbateham/
 - Email: gwbateham@gmail.com
 - Leetcode: https://leetcode.com/u/gdxbs/
 
