@@ -1,4 +1,4 @@
-[![Portfolio](https://img.shields.io/twitter/follow/sudo_overflow?color=FFD700&style=for-the-badge&label=Portfolio)](https://gregbateham.io/) [![GitHub followers](https://img.shields.io/github/followers/gdxbs?logo=GitHub&style=for-the-badge)](https://github.com/gdxbs) [![Leetcode](https://img.shields.io/twitter/follow/sudo_overflow?color=FF0000&style=for-the-badge&label=Leetcode)](https://gregbateham.io/)
+[![Portfolio](https://img.shields.io/twitter/follow/sudo_overflow?color=FFD700&style=for-the-badge&label=Portfolio)](https://gregbateham.vercel.app/) [![GitHub followers](https://img.shields.io/github/followers/gdxbs?logo=GitHub&style=for-the-badge)](https://github.com/gdxbs) 
 ## Hi there 👋, my name is Greg!
 
 I am an aspiring software engineer who is passionate about building impactful solutions using machine learning, deep learning, and computer vision. Here's a bit about me:
