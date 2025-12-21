@@ -3,7 +3,7 @@
 
 I am an aspiring software engineer who is passionate about building impactful solutions using machine learning, deep learning, and computer vision. Here's a bit about me:
 
--🔭 I earned my Bachelor's of Science in Software Engineering from Florida Gulf Coast University (May 2024) and am now a graduate student pursuing Computer Science at Florida Polytechnic University.
+-🔭 I earned my Bachelor's of Science in Software Engineering from Florida Gulf Coast University (May 2024) and my Master's of Science in Computer Science from Florida Polytechnic University (December 2025).
 
 -👨‍🏫 I recently completed a senior internship with the Department of Homeland Security, where I co-developed a web scraper that contributed to over 500 investigations and 37 arrests within the state of Florida.
 
