@@ -1,29 +1,33 @@
 [![Portfolio](https://img.shields.io/twitter/follow/sudo_overflow?color=FFD700&style=for-the-badge&label=Portfolio)](https://gregbateham.vercel.app/) [![GitHub followers](https://img.shields.io/github/followers/gdxbs?logo=GitHub&style=for-the-badge)](https://github.com/gdxbs) 
+
 ## Hi there 👋, my name is Greg!
 
-I am an aspiring software engineer who is passionate about building impactful solutions using machine learning, deep learning, and computer vision. Here's a bit about me:
+I am a software engineer passionate about building scalable microservices, deep learning solutions, and computer vision systems. Here's a bit about me:
 
--🔭 I earned my Bachelor's of Science in Software Engineering from Florida Gulf Coast University (May 2024) and my Master's of Science in Computer Science from Florida Polytechnic University (December 2025).
+- 🔭 I earned my Bachelor's of Science in Software Engineering from Florida Gulf Coast University (May 2024) and completed my Master's of Science in Computer Science at Florida Polytechnic University (December 2025).
 
--👨‍🏫 I recently completed a senior internship with the Department of Homeland Security, where I co-developed a web scraper that contributed to over 500 investigations and 37 arrests within the state of Florida.
+- 💼 I am currently working as an Application Programmer Analyst at Collabera INC., developing robust server-side microservices with Java, Spring Boot, and Python for critical financial workflows.
 
--🏆 My team and I won 2nd place at the first official FGCU Hackathon for our "Patent AI Checker" project. I also received the "Best WCE Undergraduate Design" award for my senior project in 2024.
+- 👨‍🏫 I previously worked as a Software Engineering Intern with the Department of Homeland Security, where I developed a high-performance web scraper (Netspider) supporting over 500 investigations and search warrants.
 
--💻 Experienced in multiple programming languages including Python, C++, JavaScript, SQL, TypeScript, Go, Java, etc.  
+- 🏆 My senior project won the "Best Design/Presentation" award for the Whitaker College of Engineering in 2024. I also previously won 2nd place at the FGCU Hackathon for the "Patent AI Checker" project.
 
--🌐 Comfortable with web frameworks like React, Angular, Vue, and Express  
+- 💻 Experienced in multiple programming languages including Python, C++, Java, C#, SQL, PL/SQL, TypeScript, JavaScript, and MATLAB.
 
--📦 Proficient in databases such as MySQL, SQLite, MongoDB and PostgreSQL
+- 🌐 Comfortable with modern frameworks and tools like React.js, Next.js, Three.js, Framer Motion, and Tailwind CSS.
 
--☁️ Knowledgeable in containerization services such as Docker and Kubernetes 
+- 📦 Skilled in databases, optimization, and AI platforms including PyTorch, TensorFlow, OpenCV, Scikit-learn, and Azure AI Services.
+
+- ☁️ Proficient in DevOps, cloud infrastructure, and tools including AWS, Azure (Microsoft Certified: Azure Fundamentals), Docker, Git, and CI/CD.
 
 ## 📫 Contact Me:
 You can contact me through the following links:
 
 - [LinkedIn](https://www.linkedin.com/in/gbateham/)
 - [Email](mailto:gwbateham@gmail.com)
+- [Portfolio Website](https://gregbateham.vercel.app/)
 
 ## 💬 Let's Connect:
 
-Feel free to reach out, ask any questions, or collaborate on exciting projects. I'm always excited to work with other developers and share similar knowledge.
-Thanks for stopping by! 
+Feel free to reach out, ask any questions, or collaborate on exciting projects. I'm always excited to work with other developers and share knowledge.
+Thanks for stopping by!
